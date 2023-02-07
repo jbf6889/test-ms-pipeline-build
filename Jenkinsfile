@@ -1,4 +1,4 @@
-@Library('jbf-jenkins-shared-libs.git@master') _
+@Library('jbf-jenkins-shared-libs@master') _
 
 default_ms_pipeline {
 
