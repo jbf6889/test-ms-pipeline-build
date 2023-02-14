@@ -4,7 +4,7 @@ default_ms_pipeline {
 
 DOCKER_IMAGE_NAME = 'testdockerimage'
 
-PROJECT = 'test-ms-pipeline-build'
+PROJECT = 'demo1'
 
 DEV_ENV = [
 platform: 'EKS',
